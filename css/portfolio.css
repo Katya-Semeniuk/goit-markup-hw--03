@@ -1,0 +1,53 @@
+/* mein */
+body {
+  color: var(--main-color);
+  background-color: var(--main-white-color);
+  font-family: var(--primary-font);
+  font-size: var(--primary-text-size);
+  letter-spacing: 0.03em;
+}
+ul {
+  list-style: none;
+  letter-spacing: 0.03em;
+}
+.link {
+  text-decoration: none;
+}
+.types {
+  letter-spacing: 0.03em;
+}
+/* button */
+.button {
+  display: inline-block;
+  padding: 6px 22px;
+  border-radius: 4px;
+  min-width: 125px;
+
+  font-family: inherit;
+  background-color: #f5f4fa;
+  color: var(--main-color);
+  font-size: var(--secondary-text-size);
+  font-weight: 500;
+  line-height: 1.62 px;
+  text-align: center;
+  border: none;
+  cursor: pointer;
+}
+.button:hover,
+.button:focus {
+  color: var(--main-white-color);
+  background-color: var(--color-accent);
+}
+.title {
+  font-size: var(--secondary-text-size);
+}
+.title-list {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+}
+.products .title {
+  color: var(--paragraph-color);
+  line-height: 1.88;
+}
