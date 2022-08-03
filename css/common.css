@@ -135,7 +135,7 @@ ul {
 .link {
   text-decoration: none;
 }
-section {
+.all-padding {
   padding-top: 94px;
   padding-bottom: 94px;
 }
@@ -347,7 +347,6 @@ ul {
 .btn-nav {
   display: flex;
   justify-content: center;
-  margin-top: 94px;
   margin-bottom: 50px;
 }
 
