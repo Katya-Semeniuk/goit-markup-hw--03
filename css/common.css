@@ -135,7 +135,9 @@ ul {
 .link {
   text-decoration: none;
 }
-.all-padding {
+.all-padding,
+.clients,
+.section {
   padding-top: 94px;
   padding-bottom: 94px;
 }
