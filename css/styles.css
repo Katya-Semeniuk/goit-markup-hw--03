@@ -336,7 +336,7 @@ ul {
 .btn-nav {
   display: flex;
   justify-content: center;
-  margin-bottom: 34px;
+  margin-bottom: 50px;
 }
 
 .btn-nav .btn-list + .btn-list {
